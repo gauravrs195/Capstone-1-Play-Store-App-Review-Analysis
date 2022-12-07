@@ -15,11 +15,20 @@ Data visualization is the graphic representation of data. It involves producing 
 Conclusion
 
 In the Sports category FIFA Soccer and 3D Bowling has the highest number of installations.
+
 • Percentage of free apps = 92.20%
+
 • Maximum apps in the play store are from Family category
+
 • Category with the highest number of installs: Game
+
 • Most popular app in the Play Store based on the number of reviews: Facebook
+
 • I am Rich Premium app is the most expensive app in the play store.
+
 • Overall percentage of review sentiment in which Positive sentiment count is 64%, Negative 22% and Neutral 14%.
+
 • Helix Jump has the highest number of positive reviews
+
 • Angry Birds Classic has the highest number of negative reviews
+
